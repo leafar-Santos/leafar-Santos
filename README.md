@@ -8,7 +8,8 @@
 - 📑 Mapeamento e implementação de processo de testes de software em equipes ágeis;
 - 📊 Criação e acompanhamento de métricas de qualidade;
 <hr/>
-- As principais tecnoliogias que tenho domínio e com as quais tenho experiência são:
+
+<strong>As principais tecnoliogias que tenho domínio e com as quais tenho experiência são:</strong>
 
 - SpringBoot, JPA, Playwright;
 - Java, JUnit, Cucumber, Selenium;

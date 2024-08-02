@@ -1,6 +1,6 @@
 ## Fala, pessoal! Eu sou o Rafael Santos👋
 
-- 🔭 Atualmente eu atuo como Engenheiro de Qualidade de software. Dentre todas as funções que o QA exerce no dia a dia, as principais atividades que mais exerço são:
+<strong>Atualmente eu atuo como Engenheiro de Qualidade de software. Dentre todas as funções que o QA exerce no dia a dia, as principais atividades que mais exerço são:</strong>
 - 📱 Planjamento e execução de testes em aplicativos mobile (Android e IOS);
 - 💻 Planjamento e execução de testes em API Rest;
 - 🌎 Planjamento e execução de testes em aplicações WEB;

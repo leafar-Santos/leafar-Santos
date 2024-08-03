@@ -9,7 +9,7 @@
 - 📊 Criação e acompanhamento de métricas de qualidade;
 <hr/>
 
-<strong>As principais tecnoliogias que tenho domínio e com as quais tenho experiência são:</strong>
+<strong>As principais tecnologias que tenho domínio e com as quais tenho experiência são:</strong>
 
 - SpringBoot, JPA, Playwright;
 - Java, JUnit, Cucumber, Selenium;

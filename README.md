@@ -11,14 +11,14 @@
 
 <strong>As principais tecnologias que tenho domínio e com as quais tenho experiência são:</strong>
 
-- SpringBoot, JPA, Playwright;
-- Java, JUnit, Cucumber, Selenium;
-- Java Script, Cypress, Playrigth;
+- HTML, CSS, Java Script
+- Java, SpringBoot, JPA, Swagger;
+- JUnit, Cucumber, Selenium, Rest Assured;
+- Cypress, Playwrigth;
 - Appium;
 - SQL, NSQL;
-- Jenkinks, Docker, Aws, Maven;
+- Jenkinks, Docker, Aws, Maven, Postman, GIT, Git Actions;
 
-  
 <hr/>
 
 - 📚 Estou sempre buscando aprender novas tecnologias para implementar nos projetos dos quais faço faço parte. Atualmente tenho focado em desenvolver aplicações para serem disponibilizadas para futuros QAs.
